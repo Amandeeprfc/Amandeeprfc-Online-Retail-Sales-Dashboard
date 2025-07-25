@@ -1,4 +1,4 @@
-# Amandeeprfc-Online-Retail-Sales-Dashboard
+# Online-Retail-Sales-Dashboard
 Tata Group Data Visualisation: Empowering Business with Effective Insights Skills Learned
 
 To Build the Dashboard we have used.
